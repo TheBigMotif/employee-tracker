@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/TheBigMotif/employee-tracker#readme",
   "dependencies": {
+    "console.table": "^0.10.0",
     "inquirer": "^8.2.5",
     "mysql2": "^3.2.0"
   }
